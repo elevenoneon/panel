@@ -47,7 +47,7 @@ body {
 }
 
 .pricing-features {
-    margin: 50px 0 25px;
+    margin: 51px 0 25px;
     color: #016ff9;
 }
 
@@ -61,7 +61,7 @@ body {
 }
 
 .pricing-features-item:last-child {
-    border-bottom: 1px solid #e1f1ff;
+    border-bottom: 1px solid #e2f1ff;
 }
 
 .pricing-price {
@@ -74,7 +74,7 @@ body {
 .pricing-button {
     border: 1px solid #9dd1ff;
     border-radius: 10px;
-    color: #348efe;
+    color: #358efe;
     display: inline-block;
     padding: 15px 35px;
     text-decoration: none;
@@ -84,7 +84,7 @@ body {
 
 .pricing-button:hover,
 .pricing-button:focus {
-    background-color: #e1f1ff;
+    background-color: #e2f1ff;
 }
 
 .pricing-button.is-featured {
